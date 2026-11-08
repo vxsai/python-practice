@@ -1,2 +1,2 @@
 python practice via termux
-CS50P
+\nCS50P
