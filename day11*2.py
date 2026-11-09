@@ -27,7 +27,7 @@ def main():
 
 		print(f"Layer {depth} | Biome: {biome} | Temp: {temp}C | Density: {density} kg/m3")
 
-	cowsay.trex("Chunk generation completed!")
+	cowsay.dragon("Chunk generation completed!")
 
 if __name__ == "__main__":
 	main()
