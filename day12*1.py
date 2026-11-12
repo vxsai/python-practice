@@ -1,4 +1,4 @@
-# CS50P L4 quest
+# CS50P L4 library quest
 
 import sys
 import statistics
