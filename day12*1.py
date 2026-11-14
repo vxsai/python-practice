@@ -1,4 +1,4 @@
-# CS50P L4 library and ray render cycle quest
+# CS50P L4 library and ray render cycle basic quest
 
 import sys
 import statistics
