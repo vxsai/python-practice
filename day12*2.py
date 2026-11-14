@@ -1,4 +1,4 @@
-#build a memory allocator module and a main profiler that tests multiple voxel chunks at once.
+#will build a memory allocator module and a main profiler that tests multiple voxel chunks at once.
 
 import sys
 import statistics
