@@ -36,7 +36,7 @@ def main():
 		print(f"Synthesized {ore} at {heat}C  ->  Yield: {result} [{rating}]")
 
 	if len(yield_log) > 0:
-		avg = statistics.mean(yield_log)
+		avg = round(statistics.mean(yield_log), 2)
 		cowsay.trex(f"Average {ore.capitalize()} Yield; {avg}")
 
 if __name__ == "__main__":
