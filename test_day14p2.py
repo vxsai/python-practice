@@ -1,4 +1,4 @@
-#test code for day14p2 on reactor quest 
+#basic test code for day14p2 on reactor quest 
 
 import pytest
 from day14p2 import check_core
