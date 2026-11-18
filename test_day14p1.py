@@ -1,4 +1,4 @@
-#testing code to test day14-1 kinematics
+#testing code to test day14p1 kinematics
 
 from day14p1 import calc_ke
 

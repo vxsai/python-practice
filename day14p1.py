@@ -1,4 +1,4 @@
-#quest in unit test lecture on a kinematics question
+#quest on unit test lecture on a kinematics question
 
 
 def calc_ke(mass, velocity):
