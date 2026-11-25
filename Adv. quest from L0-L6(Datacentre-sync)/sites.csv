@@ -1,0 +1,6 @@
+site,lat,lon
+Seoul,37.5665,126.9780
+Tokyo,35.6762,139.6503
+Dubai,25.2048,55.2708
+CorruptSite,invalid_lat,0.0
+
