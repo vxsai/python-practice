@@ -1,4 +1,4 @@
-#build an automated tool that reads a list of global server/factory sites from a CSV file, fetches live environmental telemetry from the Open-Meteo API (no API key required), calculates cooling risk, and exports a clean audit CSV.
+#will build an automated tool that reads a list of global server/factory sites from a CSV file, fetches live environmental telemetry from the Open-Meteo API (no API key required), calculates cooling risk, and exports a clean audit CSV.
 
 def c_to_f(celsius):
 	if celsius < -273.15:
