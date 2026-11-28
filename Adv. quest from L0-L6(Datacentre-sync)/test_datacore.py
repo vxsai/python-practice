@@ -1,4 +1,4 @@
-#Automated QA suite... 
+#Automated QA suite
 
 import pytest
 from datacore import c_to_f, classify_cooling, extract_temp
